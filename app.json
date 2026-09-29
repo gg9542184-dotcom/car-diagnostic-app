@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Car Diagnostic App",
+    "slug": "car-diagnostic-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.car.diagnostic.app"
+    }
+  }
+}
